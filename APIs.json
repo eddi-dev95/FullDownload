@@ -8,6 +8,7 @@
       "X":"saveteitter.net/api/ajaxSearch"
   }, 
   "Updates":{
+       "intro":"Hey! Hay una nueva actualización, ¡esta genial! ¿Quieres descargarla?\nDetalles:\n · \n ·\n ·\n ·\n ·\n ·",
        "value":"false",
        "url":"",
        "version":"1.2"
