@@ -8,9 +8,9 @@
       "X":"saveteitter.net/api/ajaxSearch"
   }, 
   "Updates":{
-       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial! ¿Quieres descargarla?\nDetalles:\n · \n ·\n ·\n ·\n ·\n ·",
+       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\nDetalles:\n · \n ·\n ·\n ·\n ·\n · .\n¿Quieres descargarla?",
        "value":"false",
-       "url":"",
+       "url":"shortcuts://shortcuts/af21805d78a4444589d8fd65dbbb2167",
        "version":"1.2"
   }, 
   "Nt": {
