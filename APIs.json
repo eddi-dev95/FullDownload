@@ -13,8 +13,8 @@
        "version":"1.2"
   }, 
   "Nt": {
-       "Done":"Tu contenido se descargo con éxito\nCreated by Edisson Torres.",
+       "Done":"¡Tu contenido se descargo con éxito!\nCreated by Edisson Torres.",
        "error1":"Ups, al parecer la URL que proporcionaste no es correcta. Revisala e intenta nuevamente.\nCreated by Edisson Torres.",
-       "error2":"No te preocupes, al parecer hay un error con la API, asegurate de tener la ultima version de FulloDownload\nCreated by Edisson Torres."
+       "error2":"No te preocupes, al parecer hay un error con la API, asegurate de tener la ultima version de FulloDownload.\nCreated by Edisson Torres."
   }
 }
