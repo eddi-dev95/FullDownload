@@ -2,7 +2,7 @@
   "APIs": {
       "facebook":"https://yt5s.io/api/ajaxSearch/facebook",
       "instagram":"https://fastdl.app/c/",
-      "pinterest":"https://anydownloader.com/",
+      "pinterest":"https://anydownloader.com/wp-json/aio-dl/video-data/",
       "threads":"https://thdownloader.net/download?v=",
       "tiktok":"https://tikmate.cc/amalyze?url=",
       "X":"https://savetwitter.net/api/ajaxSearch"
