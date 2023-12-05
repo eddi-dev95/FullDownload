@@ -8,17 +8,27 @@
       "threads":"https://thdownloader.net/download?v=",
       "tiktok":"https://tikmate.cc/amalyze?url=",
       "X":"https://savetwitter.net/api/ajaxSearch"
+  },
+  
+  "Nt": {
+       "Done":"¡Tu contenido se descargo con éxito!\nCreated by Edisson Torres.",
+       "error1":"Ups, al parecer la URL que proporcionaste no es correcta. Revisala e intenta nuevamente.\nCreated by Edisson Torres.",
+       "error2":"No te preocupes, al parecer hay un error con la API, asegurate de tener la ultima version de FullDownload.\nCreated by Edisson Torres.",
+       "private":"El contenido es PRIVADO. Lo siento hasta ahora no puedo descargar este tipo de contenido, por cuestiones de seguridad y derechos de autor.\nCreated by Edisson Torres."
   }, 
+  
   "Updates":{
        "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\nDetalles:\n · \n ·\n ·\n ·\n ·\n · .\n¿Quieres descargarla?",
        "value":"false",
        "url":"shortcuts://shortcuts/af21805d78a4444589d8fd65dbbb2167",
        "version":"1.2"
   }, 
-  "Nt": {
-       "Done":"¡Tu contenido se descargo con éxito!\nCreated by Edisson Torres.",
-       "error1":"Ups, al parecer la URL que proporcionaste no es correcta. Revisala e intenta nuevamente.\nCreated by Edisson Torres.",
-       "error2":"No te preocupes, al parecer hay un error con la API, asegurate de tener la ultima version de FullDownload.\nCreated by Edisson Torres.",
-       "private":"El contenido es PRIVADO. Lo siento hasta ahora no puedo descargar este tipo de contenido, por cuestiones de seguridad y derechos de autor.\nCreated by Edisson Torres."
+ 
+  "You": {
+      "api_S":"https://savetube.app/api/ajaxSearch",
+      "api_C":"https://backend.svcenter.xyz/api/convert-by-45fc4be8916916ba3b8d61dd6e0d6994",
+      "f_name":"/api/json/convert",
+      "x_r":"de0cfuirtgf67a"
   }
+  
 }
