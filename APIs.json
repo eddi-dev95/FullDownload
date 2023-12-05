@@ -1,6 +1,8 @@
 {
   "APIs": {
-      "facebook":"https://yt5s.io/api/ajaxSearch/facebook",
+      "facebook1":"https://yt5s.io/api/ajaxSearch/facebook",
+      "facebook2":"https://sc.link/c2/api/url",
+      "facebook3":"https://www.twi.kz/api/v1/shorten",
       "instagram":"https://fastdl.app/c/",
       "pinterest":"https://anydownloader.com/wp-json/aio-dl/video-data/",
       "threads":"https://thdownloader.net/download?v=",
