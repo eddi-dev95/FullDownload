@@ -19,7 +19,7 @@
   }, 
   
   "Updates":{
-       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\nDetalles:\n · Seleccion de calidad para videos de X (Twitter).\n · Corrección de errores relacionados con Facebook.\n¿Quieres descargarla?",
+       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\n\nDetalles:\n\n · Seleccion de calidad para videos de X (Twitter).\n · Corrección de errores relacionados con Facebook.\n\n¿Quieres descargarla?",
        "value":"false",
        "url":"shortcuts://shortcuts/af21805d78a4444589d8fd65dbbb2167",
        "version":"1.2",
