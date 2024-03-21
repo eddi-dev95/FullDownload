@@ -19,11 +19,11 @@
   }, 
   
   "Updates":{
-       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\n\nDetalles:\n\n · Seleccion de calidad para videos de X (Twitter).\n · Corrección de errores relacionados con Facebook.\n\n¿Quieres descargarla?",
+       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\n\nDetalles:\n\n • Corrigue errores con la app de TikTok. \n\n¿Quieres descargarla?",
        "value":"true",
-       "url":"shortcuts://shortcuts/e83d356c6c9e43e3a500fb737ee40024",
+       "url":"shortcuts://shortcuts/b0b62424eb83402e986ece95627c9836",
        "version":"1.2",
-       "key":"e83d356c6c9e43e3a500fb737ee40024"
+       "key":"b0b62424eb83402e986ece95627c9836"
   }, 
  
   "You": {
