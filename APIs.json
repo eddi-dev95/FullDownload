@@ -20,7 +20,7 @@
   }, 
   
   "Updates":{
-       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\n\nDetalles:\n\n • Corrigue errores con la app de TikTok.\n • Descarga videos HD desde \"vimeo.com\"\n\n¿Quieres descargarla?",
+       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\n\nDetalles:\n\n • Corrigue errores con la app de Instagram.\n¡IMPORTANTE!\n • Esta corrección es una Beta, puede contener errores y/o descargar contenido vacío. Como en todas las versiones anteriores el contenido se guardara en la app \"Fotos\" excepto los audios y videos de alta definición mayor a 1080p HDR que se guardaran en la app de archivos, dentro de la carpeta \"iPhone\".\n\n¿Quieres descargarla?",
        "value":"true",
        "url":"shortcuts://shortcuts/f29f1bf3ed75426597ffae76bba1008f",
        "version":"1.3",
