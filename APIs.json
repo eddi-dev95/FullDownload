@@ -20,11 +20,11 @@
   }, 
   
   "Updates":{
-       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\n\nDetalles:\n\n • Corrigue errores con la app de Instagram.\n¡IMPORTANTE!\n • Esta corrección es una Beta, puede contener errores y/o descargar contenido vacío. Como en todas las versiones anteriores el contenido se guardara en la app \"Fotos\" excepto los audios y videos de alta definición mayor a 1080p HDR que se guardaran en la app de archivos, dentro de la carpeta \"iPhone\".\n\n¿Quieres descargarla?",
+       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\n\nDETALLES:\n\n • Corrigue errores con la app de Instagram.\n\n¡IMPORTANTE!\n\n • Esta corrección es una Beta, puede contener errores y/o descargar contenido vacío. Como en todas las versiones anteriores el contenido se guardara en la app \"Fotos\" excepto los audios y videos de alta definición mayor a 1080p HDR que se guardaran en la app \"Archivos\", dentro de la carpeta \"iPhone\".\n\n¿Quieres descargarla?",
        "value":"true",
-       "url":"shortcuts://shortcuts/f29f1bf3ed75426597ffae76bba1008f",
-       "version":"1.3",
-       "key":"b0b62424eb83402e986ece95627c9836"
+       "url":"shortcuts://shortcuts/45a7eb9175634342a39170ca2bfa22b2",
+       "version":"1.4",
+       "key":"a90f1676a530408d8cc6b9d67c3669e9"
   }, 
  
   "You": {
