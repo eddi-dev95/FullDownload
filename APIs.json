@@ -4,6 +4,7 @@
       "facebook2":"https://sc.link/v2/api/url",
       "facebook3":"https://www.twi.kz/api/v1/shorten",
       "ig":"https://fastdl.app/api/convert",
+      "Storig":"https://fastdl.app/api/ig/story?url=",
       "storiesIG":"https://igram.world/api/ig/story?url=",
       "reelsIG":"https://snapinsta.io/api/ajaxSearch",
       "pinterest":"https://anydownloader.com/wp-json/aio-dl/video-data/",
