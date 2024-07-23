@@ -1,14 +1,19 @@
 **Versión 2.0: Actualización importante.**
 
 Esta versión ha sido reprogramada por completo desde cero, manteniendo la funcionalidad esencial mientras se han implementado varias mejoras significativas.
+
 1. **REPROGRAMACION COMPLETA:**
   todas las acciones han sido reescritas para mejorar la eficiencia y el rendimiento. 
+
 2. **CORRECION DE ERRORES:**
   Se han solucionado varios errores presentes en la versión anterior, mejorando la estabilidad general del atajo.
+
 3. **OPTIMIZACION Y COMPRESIÓN DE ACCIONES:**
   Las acciones han sido comprimidas, facilitando el mantenimiento y reduciendo posibles errores.
+
 4. **MEJORA EN LA COMPATIBILIDAD:**
   Ahora el atajo es compatible con más redes sociales y/o aplicaciones de video, ampliando su funcionalidad.
+
 5. **MANTENIMIENTO FUTURO:**
   Se ha implementado un sistema de versiones que facilita futuras actualizaciones y mantenimiento.
 
