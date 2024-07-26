@@ -22,10 +22,10 @@
   }, 
   
   "Updates":{
-       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\n\nDETALLES:\n\n • Corrigue errores con la app de Instagram.\n\n¡IMPORTANTE!\n\n • Como en todas las versiones anteriores el contenido se guardara en la app \"Fotos\" excepto los audios y videos de alta definición mayor a 1080p60 HDR que se guardaran en la app \"Archivos\", dentro de la carpeta \"iPhone\".\n\n¿Quieres descargarla?",
+       "intro":"¡Hey! Hay una nueva actualización, ¡esta genial!\n\nDETALLES:\n\n • Corrigue errores con la app de Instagram.\n\n¡IMPORTANTE!\n\n • Como en todas las versiones anteriores el contenido se guardara en la app \"Fotos\" excepto los audios y videos de alta definición mayor a 1080p60 HDR que se guardaran en la app \"Archivos\", dentro de la carpeta \"En mi iPhone\".\n • Si usas en tu telefono alguna VPN, bloqueadores de anuncios y/o navegadores de terceros, puede provocar fallas de conexion con las APIs, provocando un error de descarga.\n\n¿Quieres descargarla?",
        "value":"true",
-       "url":"shortcuts://shortcuts/5d5d5d21242f4e0f8c81e4e4ca230939",
-       "version":"1.5",
+       "url":"shortcuts://shortcuts/4fe2962936814e4e881ade6692cee60b",
+       "version":"2.0",
        "key":"45a7eb9175634342a39170ca2bfa22b2"
   }, 
  
